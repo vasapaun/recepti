@@ -25,3 +25,29 @@ Instructions:
     Add the cooked macaroni to the skillet, stirring to coat it evenly with the creamy sauce. Cook for a few more minutes until everything is heated through.
     Season with additional salt and pepper to taste, if needed.
     Serve hot, garnished with grated Parmesan cheese and chopped parsley if desired.
+
+# Gulas
+
+Sastojci:
+
+*   800 grama juneceg mesa (but ili plecka)
+*   3 glavice crnog luka
+*   2-3 cena belog luka
+*   2 sargarepe
+*   1 kasika vegete
+*   1 kasicica aleve paprike
+*   malo soli
+*   malo bibera
+*   malo iseckanog persuna
+*   1 puna kasika brasna
+*   250 ml mlake vode
+
+Priprema:
+    
+    Crni luk, sargarepu i beli luk dinstati na laganoj vatri.
+    Dodati meso iseceno na kockice.
+    Zaciniti.
+    Naliti toplom vodom i kuvati oko 60 min.
+    U ciniju staviti alevu papriku i brasno.
+    Razmutiti sa malo hladne vode.
+    Dodati u serpu i kuvati jos 10-ak minuta.
