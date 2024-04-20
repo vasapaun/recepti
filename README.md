@@ -17,13 +17,17 @@ Ingredients:
 Instructions:
 
     Heat olive oil or butter in a large skillet over medium heat.
-    Add the sliced onions and minced garlic to the skillet. Cook until the onions are soft and translucent, stirring occasionally, for about 5-7 minutes.
+    Add the sliced onions and minced garlic to the skillet.
+    Cook until the onions are soft and translucent, stirring occasionally, for about 5-7 minutes.
     Season the chicken pieces with salt, pepper, chicken seasoning, and paprika.
-    Add the seasoned chicken to the skillet with the onions and garlic. Cook until the chicken is fully cooked through and no longer pink in the center, stirring occasionally, for about 8-10 minutes.
-    Reduce the heat to low. Stir in the cream cheese until melted and well combined with the chicken and onions.
-    Pour in the milk or chicken broth, stirring constantly until the sauce is smooth and creamy. If the sauce is too thick, you can add more milk or broth until you reach your desired consistency.
-    Add the cooked macaroni to the skillet, stirring to coat it evenly with the creamy sauce. Cook for a few more minutes until everything is heated through.
-    Season with additional salt and pepper to taste, if needed.
+    Add the seasoned chicken to the skillet with the onions and garlic.
+    Cook until the chicken is fully cooked through and no longer pink in the center, stirring occasionally, for about 8-10 minutes.
+    Reduce the heat to low.
+    Stir in the cream cheese until melted and well combined with the chicken and onions.
+    Pour in the milk or chicken broth, stirring constantly until the sauce is smooth and creamy.
+    If the sauce is too thick, you can add more milk or broth until you reach your desired consistency.
+    Add the cooked macaroni to the skillet, stirring to coat it evenly with the creamy sauce.
+    Cook for a few more minutes until everything is heated through.
     Serve hot, garnished with grated Parmesan cheese and chopped parsley if desired.
 
 # Gulas
@@ -51,3 +55,29 @@ Priprema:
     U ciniju staviti alevu papriku i brasno.
     Razmutiti sa malo hladne vode.
     Dodati u serpu i kuvati jos 10-ak minuta.
+
+# Fileti Oslica U Krem Sosu
+
+Sastojci:
+
+*   600 g fileta oslića
+*   250 ml neutralne pavlake
+*   100 g brašna
+*   1 limun
+*   4 češnja belog luka
+*   50 g putera
+*   1 mala kašika mlevenog belog bibera
+*   1 mala kašika karija
+*   1 mala kašika suve mirođije
+*   ulje
+*   so 
+
+Priprema:
+
+    U dublji sud stavimo filete oslića, posolimo i pobiberimo.
+    Limun iscedimo kroz cediljku i polovinom soka poprskamo filete.
+    Začinjene filete pobrašnimo sa obe strane i ispržimo na zagrejanom ulju u tiganj na šporetu.
+    Kada se isprže sa obe strane izvadimo ih iz tiganja.
+    U tiganj sa preostalim uljem dodamo puter.
+    Češnjeve belog luka isečemo na parčad i propržimo na zagrejanoj masnoći.
+    Dodamo neutralnu pavlaku, kari, suvu mirođiju, preostali mleveni beli biber i preostali sok od limuna.
