@@ -30,6 +30,7 @@ Instructions:
     Cook for a few more minutes until everything is heated through.
     Serve hot, garnished with grated Parmesan cheese and chopped parsley if desired.
 
+
 # Gulas
 
 Sastojci:
@@ -56,6 +57,7 @@ Priprema:
     Razmutiti sa malo hladne vode.
     Dodati u serpu i kuvati jos 10-ak minuta.
 
+
 # Fileti Oslica U Krem Sosu
 
 Sastojci:
@@ -81,3 +83,36 @@ Priprema:
     U tiganj sa preostalim uljem dodamo puter.
     Češnjeve belog luka isečemo na parčad i propržimo na zagrejanoj masnoći.
     Dodamo neutralnu pavlaku, kari, suvu mirođiju, preostali mleveni beli biber i preostali sok od limuna.
+
+
+# Piletina sa leblebijama u kari sosu
+
+Sastojci:
+
+* 500 g pileceg fileta
+* 500 g spremnih leblebija
+* 250 ml neutralne pavlake
+* 200 ml pasiranog paradajza (ili jedan paradajz)
+* 2 sargarepe
+* 2 cena belog luka
+* 2 paprike silje
+* 1 crni luk
+* 1 luk
+* 1 kasika kari zacina
+* 1 kasika slatke aleve paprike
+* so
+* ulje
+
+Priprema:
+
+    Iscediti limun.
+    Piletinu iseci na manje kocke.
+    Zaciniti kari sosom i preliti limunovim sokom.
+    Ostaviti sa strane ili u frizider, da upije sok i zacine.
+    Sargarepe, crni luk, beli luk i paprike iseci na komadice.
+    Dodati u duboki tiganj sargarepu, crni i beli luk.
+    Proprziti na umerenoj vatri i malo ulja dok se sargarepa ne smeksa malo.
+    Dodati piletinu, paradajz i papriku.
+    Prziti na jacoj vatri dok se piletina ne spremi, a paradajz usahne.
+    Dodati neutralnu pavlaku, alevu papriku i leblebije.
+    Prziti na umerenoj vatri dok jelo ne dostigne zeljenu gustinu.
