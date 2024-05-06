@@ -89,10 +89,10 @@ Priprema:
 
 Sastojci:
 
-* 500 g pileceg fileta
-* 500 g spremnih leblebija
-* 250 ml neutralne pavlake
-* 200 ml pasiranog paradajza (ili jedan paradajz)
+* 500 g pileceg fileta (825 kcal, 155g protein)
+* 500 g spremnih leblebija (1820 kcal, 30g nezasicenih masti, 95g protein)
+* 250 ml neutralne pavlake (150kcal, 10g zasicenih masti)
+* 200 ml pasiranog paradajza (ili jedan paradajz) (50 kcal)
 * 2 sargarepe
 * 2 cena belog luka
 * 2 paprike silje
