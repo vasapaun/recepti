@@ -98,6 +98,7 @@ Sastojci:
 * 2 paprike silje
 * 1 crni luk
 * 1 luk
+* 1 manji limun
 * 1 kasika kari zacina
 * 1 kasika slatke aleve paprike
 * so
@@ -108,7 +109,7 @@ Priprema:
     Iscediti limun.
     Piletinu iseci na manje kocke.
     Zaciniti kari sosom i preliti limunovim sokom.
-    Ostaviti sa strane ili u frizider, da upije sok i zacine.
+    Ostaviti sa strane ili u frizider, da upije sok i zacin.
     Sargarepe, crni luk, beli luk i paprike iseci na komadice.
     Dodati u duboki tiganj sargarepu, crni i beli luk.
     Proprziti na umerenoj vatri i malo ulja dok se sargarepa ne smeksa malo.
