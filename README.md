@@ -131,12 +131,15 @@ Sastojci:
 * 1 manji crni luk
 * 1 saka rezanaca
 * so
+* par zrna bibera
+* lovorov list
+* persunov list
 * vegeta
 
 Priprema:
 
     Obariti meso (pola sata piletina, jedan sat junetina).
-    Ispeci crni luk na ringli, ubaciti u meso.
+    Ispeci crni luk na ringli, ubaciti u meso zajedno sa lovorom i biberom.
     Kad se meso (i luk) skuva, dodati sve povrce sem krompira.
     Kuvati pola sata, pa dodati i krompir.
     Kuvati jos pola sata.
