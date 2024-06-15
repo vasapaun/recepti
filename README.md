@@ -117,3 +117,46 @@ Priprema:
     Prziti na jacoj vatri dok se piletina ne spremi, a paradajz usahne.
     Dodati neutralnu pavlaku, alevu papriku i leblebije.
     Prziti na umerenoj vatri dok jelo ne dostigne zeljenu gustinu.
+
+# Supa sa rezancima (ili knedlama)
+
+Sastojci:
+
+* 1 pileci karabatak
+* 1 komad juneceg rebra (~250g)
+* 3 sargarepe
+* 2 krompire
+* 1 paskanat
+* 1 kocka celera
+* 1 manji crni luk
+* 1 saka rezanaca
+* so
+* vegeta
+
+Priprema:
+
+    Obariti meso (pola sata piletina, jedan sat junetina).
+    Ispeci crni luk na ringli, ubaciti u meso.
+    Kad se meso (i luk) skuva, dodati sve povrce sem krompira.
+    Kuvati pola sata, pa dodati i krompir.
+    Kuvati jos pola sata.
+    Procediti supu i vratiti na ringlu da ponovo vri.
+    Ili:
+        Dodati jednu saku rezanaca i kuvati 10 minuta.
+    Ili:
+        Preci na pripremu knedli.
+    Zaciniti solju i vegetom po ukusu.
+    Po ukusu dodati i persunov list.
+
+**Za knedle**
+* 50 g masti
+* 100 g griza
+* 1 jaje
+
+Priprema:
+
+    Posebno umutiti jaje i mast.
+    Sjediniti i dodati griz.
+    Dok supa vri, zamociti kasicicu da bi se zagrejala.
+    Uzimati kasicicu po kasicicu smese i uranjati u supu.
+    Kad se svo testo iskoristi, poklopiti supu i ostaviti da umereno vri 20 minuta.
