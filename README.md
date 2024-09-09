@@ -163,3 +163,27 @@ Priprema:
     Dok supa vri, zamociti kasicicu da bi se zagrejala.
     Uzimati kasicicu po kasicicu smese i uranjati u supu.
     Kad se svo testo iskoristi, poklopiti supu i ostaviti da umereno vri 20 minuta.
+
+# Dinstana boranija
+
+Sastojci:
+
+* 800 g boranije
+* 200 g junetine
+* 3 paprike silje
+* 3 paradajza
+* 3 sargarepe
+* 3 cena belog luka
+* 1 crni luk
+* 1 kasicica brasna
+* pola kasike aleve paprike
+* persun (po ukusu)
+
+Priprema:
+    
+    Na ulju proprziti sitno seckan crni luk i sargarepu na kolutove.
+    Dodati beli luk sada, ili na kraju (po ukusu).
+    Dodati papriku, paradajz i meso, zaciniti.
+    Nakon sto se meso izdinsta, dodati boraniju i litar vruce vode.
+    Kad se boranija skuva, razmutiti brasno u malo vode, pa dodati.
+    Dodati persun.
