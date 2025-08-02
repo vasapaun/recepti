@@ -187,3 +187,31 @@ Priprema:
     Nakon sto se meso izdinsta, dodati boraniju i litar vruce vode.
     Kad se boranija skuva, razmutiti brasno u malo vode, pa dodati.
     Dodati persun.
+
+# Buritosi
+
+## Sastojci:
+
+* 250 g mesa (sitno seckano pilece / mleveno svinjsko / mleveno telece)
+* 1/2 glavice crnog luka
+* 2 cena belog luka
+* 1 paradajz
+* 4 tortilje
+* 4 kasike kukuruza secerca (iz konzerve)
+* 4 kasike pasulja (iz konzerve)
+* 100 g pavlake
+* 100g rendanog kackavalja
+* zacini (aleva, so, biber itd)
+
+## Priprema:
+
+    Na ulju propriziti crni i beli luk.
+    Dodati meso i zaciniti.
+    Prziti dok meso ne dobije boju.
+    Ddoati naseckan paradajz, kukuruz i pasulj.
+    Kuvati dok se meso ne spremi i tecnost ne usahne.
+
+    Na tortilju namazati pavlaku, pa preko staviti fil,
+    pa preko rendani kackavalj.
+    Tortilju uviti: https://youtu.be/IAbpVXEUt_c?si=tPf0DV3MIfJhkeCl
+    Na kraju staviti tortilju na suv tiganj, da se kackavalj otopi i sve lepo ne spoji.
