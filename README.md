@@ -190,7 +190,7 @@ Priprema:
 
 # Buritosi
 
-## Sastojci:
+## Sastojci (za 3 veca buritosa):
 
 * 250 g mesa (sitno seckano pilece / mleveno svinjsko / mleveno telece)
 * 1/2 glavice crnog luka
