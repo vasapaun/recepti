@@ -196,7 +196,7 @@ Priprema:
 * 1/2 glavice crnog luka
 * 2 cena belog luka
 * 1 paradajz
-* 4 tortilje
+* 3 tortilje
 * 4 kasike kukuruza secerca (iz konzerve)
 * 4 kasike pasulja (iz konzerve)
 * 100 g pavlake
