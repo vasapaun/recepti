@@ -215,3 +215,25 @@ Priprema:
     pa preko rendani kackavalj.
     Tortilju uviti: https://youtu.be/IAbpVXEUt_c?si=tPf0DV3MIfJhkeCl
     Na kraju staviti tortilju na suv tiganj, da se kackavalj otopi i sve lepo ne spoji.
+
+# Kuvan sladak kupus
+
+Sastojci:
+
+* 1 glavica kupusa (maks 1 kg)
+* 400g teletine (but/plećka)
+* 1 glavica crnog luka
+* 3 čena belog luka
+* 3 šargarepe
+* 1 crvena paprika
+* 2 veća paradajza
+* začini - so, vegeta, biber, lovor, peršun
+* 1 kašika brašna
+* 1 kašičica aleve
+
+Priprema:
+
+    Na masti propržiti crni i beli luk, dodati teletinu i čašu vode i dinstati ~ sat vremena, da omekša
+    Dodati šargarepu na kolutove, kupus na kocke i čašu vode, kuvati 15 minuta.
+    Dodati papriku i paradajz isečeno sitno na kockice, začine, brašno i alevu.
+    Naliti vode da kupus ogrezne i kuvati pola sata.
